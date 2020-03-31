@@ -7,6 +7,7 @@ class Dog
     @breed = breed
   end
 
+#getter and setter for both breed and name
   attr_accessor :breed, :name
 
 end
